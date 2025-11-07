@@ -1,1 +1,1 @@
-Версия из branchB
+Текст из branchB
