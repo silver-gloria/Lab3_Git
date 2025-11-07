@@ -1,1 +1,4 @@
+ HEAD
 Текст из branchB
+Текст из branchA
+ branchA
